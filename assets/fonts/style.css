@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'electrical';
+   font-display: swap;
+   src: url('electrical/font.ttf');
+}
+@font-face {
+   font-family: 'AnyConv.com__OPTIImprovNewWideNine';
+   font-display: swap;
+   src: url('AnyConv.com__OPTIImprovNewWideNine/font.ttf');
+}
+@font-face {
+   font-family: 'EuropaGroteskNr2SB-Bold';
+   font-display: swap;
+   src: url('EuropaGroteskNr2SB-Bold/font.otf');
+}
